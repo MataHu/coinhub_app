@@ -1,1 +1,1 @@
-# coinhub_app
+# coinhub_app v1.0
