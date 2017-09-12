@@ -1,0 +1,3 @@
+rootProject.name = 'coinhub'
+
+include ':app'
