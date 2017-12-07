@@ -115,11 +115,11 @@ const Navigator = StackNavigator(
 
 const ModalNavigator = StackNavigator(
   {
-      MainNavigator: { screen: Navigator },
+    MainNavigator: { screen: Navigator },
   },
   {
-      mode: 'modal',
-      headerMode: 'none',
+    mode: "modal",
+    headerMode: "none",
   }
 );
 
